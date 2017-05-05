@@ -1,0 +1,12 @@
+{
+	\"fields\": {
+		\"project\": {
+			\"key\": \"${JIRA_PROJECT_KEY}\"
+		},
+		\"summary\": \"[ZABBIX ALERT]: ${DESCRIPTION}\",
+		\"description\": \"This is automatically created ticket, since the alert in Zabbix is open for more than 1 hour.\",
+		\"issuetype\": {
+			\"name\": \"${JIRA_ISSUE_TYPE}\"
+		}
+	}
+}

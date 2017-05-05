@@ -1,0 +1,10 @@
+{
+  "zbx_api_user": "",
+  "zbx_api_passwd": "",
+  "zbx_api_url": "http://{zabbix_server_ip}/zabbix/api_jsonrpc.php",
+  "jira_user": "",
+  "jira_passwd": "",
+  "jira_api_url": "https://{jira_ip}/rest/api/latest",
+  "jira_project_key": "",
+  "jira_issue_type": ""
+}
